@@ -15,6 +15,7 @@ public class Main {
         MainFrame mainFrame = new MainFrame();
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         mainFrame.setVisible(true);
+        mainFrame.toggleFullscreen();
 
         System.out.println("Players: " + GameState.getPlayers());
     }

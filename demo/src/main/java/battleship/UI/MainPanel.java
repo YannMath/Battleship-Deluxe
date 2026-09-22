@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 import battleship.Logic.GameState;
 import battleship.Objects.Board;
-import battleship.Objects.Tile;
 
 public class MainPanel extends JPanel {
     public MainPanel() {

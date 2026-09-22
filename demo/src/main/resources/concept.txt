@@ -1,0 +1,8 @@
+MainFrame -> 
+
+MainPanel (cardLayout) -> 
+GamePanel -> 
+(multiple) BoardPanel -> 
+
+Board -> 
+Tile
